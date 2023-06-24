@@ -1,4 +1,4 @@
-# OpenAI-API-NewsLabel
+# OpenAI-API-Request
 
 
 In this document, the data in the excel spreadsheet that you have provided as a source is read and a request is sent to the OpenAI-API.
