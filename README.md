@@ -1,8 +1,8 @@
 # OpenAI-API-Request
 
 
-In this document, the data in the excel spreadsheet that you have provided as a source is read and a request is sent to the OpenAI-API.
-The result of this request is returned as a result whether the transmitted text is positive or negative and is saved in a CSV file with the transmitted text. 
+In this program, the data in the excel spreadsheet that you show as a source is read and a request is sent to the OpenAI-API.
+As a result of this request, the answer to the question about the transmitted text is returned and saved in a CSV file with the transmitted text. 
 
 **Requirements**
 -OpenAI Library must be installed
@@ -10,8 +10,8 @@ The result of this request is returned as a result whether the transmitted text 
 
 -------------------------------------------------------
  
-Bu belgede, kaynak olarak gösterdiğiniz excel tablosundaki veriler okunur ve OpenAI-API'sine request gönderilir.
-Bu isteğin sonucunda iletilen metnin pozitif mi yoksa negatif mi olduğu sonuç olarak döndürülür ve bir CSV dosyasına iletilen metinle kaydedilir. 
+Bu programda, kaynak olarak gösterdiğiniz excel tablosundaki veriler okunur ve OpenAI-API'sine request gönderilir.
+Bu isteğin sonucunda iletilen metne dair sorulan soruya cevap döndürülür ve bir CSV dosyasına iletilen metinle kaydedilir. 
 
 **Gereklilikler**
 -OpenAI Kütüphanesi Kurulmış olmalı
